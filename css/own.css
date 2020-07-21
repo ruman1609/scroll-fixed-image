@@ -1,0 +1,54 @@
+body,html{
+  height: 100%;
+  margin: 0;
+}
+
+.wrapper{
+  height: 100%;
+  font-family: sans-serif;
+  line-height: 1.5;
+  word-spacing: 2px;
+  letter-spacing: 0.5px;
+}
+.fixed{
+  background-attachment: fixed !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  background-position: center center !important;
+  height: 100%;
+  width: 100%;
+  display: table;
+}
+.isi{
+  object-position: center center !important;
+  text-align: center;
+  color: white;
+  margin: 20% auto;
+  width: 50%;
+  background-color: rgba(0,0,0,0.5);
+}
+
+.scroll{
+  background-color: #333;
+  padding: 15px 30px;
+  color: #fff;
+  text-align: center;
+}
+.i1{
+  background-image: url("../assets/1.jpg") !important;
+}
+.i2{
+  background-image: url("../assets/2.jpg") !important;
+}
+.i3{
+  background-image: url("../assets/3.jpg") !important;
+}
+.i4{
+  background-image: url("../assets/4.jpg") !important;
+}
+.i5{
+  background-image: url("../assets/5.jpg") !important;
+}
+.i6{
+  background-image: url("../assets/6.jpg") !important;
+}
